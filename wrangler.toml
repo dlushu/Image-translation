@@ -1,0 +1,5 @@
+# wrangler.toml
+name = '名称'
+main = "_worker.js"
+compatibility_date = "2025-12-27"
+keep_vars = true
